@@ -17,6 +17,6 @@ Transform package.json to markdown document.
 
 ## References
 
-- [Homepage](<!-- [package.md] homepage not found. -->)
-- [Issues](<!-- [package.md] bug.url not found. -->)
-- [Repository](<!-- [package.md] repository.url not found. -->)
+- [Homepage](https://jacoblincool.github.io/package.md/)
+- [Issues](https://github.com/JacobLinCool/package.md/issues)
+- [Repository](https://github.com/JacobLinCool/package.md.git)

@@ -42,5 +42,13 @@
     "dependencies": {
         "chalk": "4.1.2",
         "commander": "^8.3.0"
+    },
+    "homepage": "https://jacoblincool.github.io/package.md/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JacobLinCool/package.md.git"
+    },
+    "bugs": {
+        "url": "https://github.com/JacobLinCool/package.md/issues"
     }
 }
