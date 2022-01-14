@@ -1,6 +1,6 @@
 {
     "name": "package.md",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Transform package.json to markdown document.",
     "main": "lib/index.js",
     "bin": {
@@ -17,7 +17,11 @@
         "lint": "eslint .",
         "test": "jest --coverage"
     },
-    "keywords": ["package", "readme", "generator"],
+    "keywords": [
+        "package",
+        "readme",
+        "generator"
+    ],
     "author": "JacobLinCool <jacoblincool@gmail.com> (https://github.com/JacobLinCool)",
     "license": "MIT",
     "types": "lib/index.d.ts",
