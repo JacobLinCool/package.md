@@ -18,7 +18,7 @@ Keywords: <!-- {{ keywords array title }} -->
 ## References
 
 - [Homepage](<!-- {{ homepage }} -->)
-- [Issues](<!-- {{ bug.url }} -->)
+- [Issues](<!-- {{ bugs.url }} -->)
 - [Repository](<!-- {{ repository.url }} -->)
 
 <!-- {{ package.md upper }} -->
